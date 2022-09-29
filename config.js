@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Cadbury_mly'
-global.sgh = 'github.com/krizynofc' //github
-global.sgc = 'https://chat.whatsapp.com/GU6aanJJuz3ARqH1LeFY9W' //group whatsapp
+global.sig = 'https://instagram.com/hamzz_jr'
+global.sgh = 'github.com/HamzBotzzzzz' //github
+global.sgc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/c/hokenbeusz' // my youtube channel
+global.snh = 'https://www.youtube.com/c/Hamz9999+' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/kricom'
+global.pdana = '088214989352' //dana
+global.povo = '088214989352' //ovo
+global.pgopay = '088214989352' //gopay
+global.plinkaja = 'Gaada' //link aja
+global.ppulsa = '088214989352' //telkomsel
+global.ppulsa2 = '0881023363385' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/ZxynnBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601123065180'
-global.nomorown = '601127833767'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'Cadbury Ensem'
+global.nomorbot = '48699521417'
+global.nomorown = '6288214989352'
+global.namebot = 'ZxynnBoTz-MD'
+global.nameown = 'IlhamGanzz??'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,8 +58,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628XXXXXXXXXX', 'WH MODS DEV', true],
-  ['-', 'isi_kalau_ada', true],
+  ['6288214989352', 'IlhamGanzz??', true],
+  ['97696488500', 'IlhamGanzz??', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 ZxynnBoTz-MD 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZxynnBotz-MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ZxynnBoTz-MD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By IlhamGanzz??`
+global.author = '                「 ZxynnBoTz-MD  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By KrizynOfc`
+global.stickpack = 'ZxynnBoTz-MD'
+global.stickauth = `By IlhamGanzz??`
 
 global.multiplier = 38 // The higher, The harder levelup
 
